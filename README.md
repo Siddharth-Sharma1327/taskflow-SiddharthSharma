@@ -32,8 +32,8 @@ I made a few deliberate choices here that are worth explaining:
 The only prerequisite is Docker. Nothing else needs to be installed.
 
 ```bash
-git clone https://github.com/siddharthatpolaris/GI-A.git
-cd GI-A
+git clone https://github.com/Siddharth-Sharma1327/taskflow-SiddharthSharma.git
+cd taskflow-SiddharthSharma
 cp .env.example .env
 docker compose up --build
 ```
